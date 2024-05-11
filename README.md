@@ -10,6 +10,8 @@ This project is an introduction to the beautiful world of Raytracing. Once compl
 
 Version: 8
 
+- **miniRT (succeeded with 110%)**
+
 ![image](https://github.com/carlosrocha-dev/42_miniRT/assets/3737837/977c8dad-6987-413f-9a5a-4b5005471aed)
 
 
